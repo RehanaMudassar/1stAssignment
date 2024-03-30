@@ -1,0 +1,12 @@
+{
+  "name": "1stassignment",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @RehanaMudassar\r - 👀 I’m interested in ...\r - 🌱 I’m currently learning ...\r - 💞️ I’m looking to collaborate on ...\r - 📫 How to reach me ...\r - 😄 Pronouns: ...\r - ⚡ Fun fact: ...",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
