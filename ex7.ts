@@ -1,5 +1,4 @@
-//Number Eight: Write addition, subtraction, multiplication, and division operations that each result in the number 8. Be sure to enclose your operations in print statements to see the results.
-console.log('ADDITION',8+4)
-console.log('SUBTRACTION',8-4)
-console.log('MULTIPLICATION',8*4)
-console.log('DIVISION',8/4)
+//Stripping Names: Store a person’s name, and include some whitespace characters at the beginning and end of the name. Make sure you use each character combination, "\t" and "\n", at least once. Print the name once, so the whitespace around the name is displayed. Then print the name after striping the white spaces.
+let person='\n\t\tRehana\t\t'
+console.log(person)
+console.log(person.trim())

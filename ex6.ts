@@ -1,4 +1,2 @@
-//Stripping Names: Store a person’s name, and include some whitespace characters at the beginning and end of the name. Make sure you use each character combination, "\t" and "\n", at least once. Print the name once, so the whitespace around the name is displayed. Then print the name after striping the white spaces.
-let person='\n\t\tRehana\t\t'
-console.log(person)
-console.log(person.trim())
+//Famous Quote 2: Repeat Exercise 4, but this time store the famous person’s name in a variable called famous_person. Then compose your message and store it in a new variable called message. Print your message.
+console.log('Quaid-e-Azam said, Before you make a decision… “Think a hundred times before you take a decision, but once that decision is taken, stand by it as one man.”')
